@@ -1,3 +1,7 @@
+Welcome to my GitHub profile!
+
+I use GitHub mainly as a backup/mirror for my projects over on [GitLab](https://gitlab.com/-/u/24902750). However, I will still respond to any issues/pull requests on here. I also use GitHub to collaborate and contribute to other projects.
+
 ## Links
 
 <div align="center">
