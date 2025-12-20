@@ -1,4 +1,5 @@
-## Links
+Links
+-----
 
 <div align="center">
 	<a href="mailto:dima.o.sh@proton.me"><img src="https://gitlab.com/shdima/shdima/-/raw/main/Assets/Images/Logos/Mail.svg?ref_type=heads" width="48" height="48" /></a>
