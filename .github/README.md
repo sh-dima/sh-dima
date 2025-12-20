@@ -1,6 +1,6 @@
 Welcome to my GitHub profile!
 
-I use GitHub mainly as a backup/mirror for my projects over on [GitLab](https://gitlab.com/shdima). However, I will still respond to any issues/pull requests on here. I also use GitHub to collaborate and contribute to other projects.
+I use GitHub mainly as a backup/mirror for my projects over on [GitLab][gitlab-projects]. However, I will still respond to any issues/pull requests on here. I also use GitHub to collaborate and contribute to other projects.
 
 Links
 -----
@@ -12,3 +12,5 @@ Links
   <a href="https://hangar.papermc.io/EsotericEnderman"><img src="../refs/heads/main/Assets/Images/Logos/Hangar.svg" width="48" height="48" /></a>
   <a href="https://www.spigotmc.org/members/esotericenderman.2123396/"><img src="../refs/heads/main/Assets/Images/Logos/SpigotMC.svg" width="48" height="48" /></a>
 </div>
+
+[gitlab-projects]: https://gitlab.com/users/shdima/projects (View my projects on GitLab)
