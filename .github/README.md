@@ -7,7 +7,6 @@ Links
 
 <div align="center">
 	<a href="https://discord-profiles.gitlab.io/sh.dima/"><img src="../refs/heads/main/Assets/Images/Logos/Discord.svg" width="48" height="48" /></a>
-	<a href="https://matrix.to/#/@dima.sh:matrix.org"><img src="../refs/heads/main/Assets/Images/Logos/Matrix.svg" width="48" height="48" /></a>
 	<a href="mailto:dima.o.sh@proton.me"><img src="../refs/heads/main/Assets/Images/Logos/Mail.svg" width="48" height="48" /></a>
 	<a href="https://gitlab.com/shdima"><img src="../refs/heads/main/Assets/Images/Logos/GitLab.svg" width="48" height="48" /></a>
 	<a href="https://modrinth.com/user/QQLG6fUh"><img src="../refs/heads/main/Assets/Images/Logos/Modrinth.svg" width="48" height="48" /></a>
