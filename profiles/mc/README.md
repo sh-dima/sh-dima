@@ -3,12 +3,12 @@ Minecraft Profile
 
 These are the instructions to generate my Minecraft profile picture.
 
-Make sure you are using the [correct skin](./skin.png) and the migrator cape.
+Make sure you are using the [correct skin][1] and the migrator cape.
 
 Install the following mods on Minecraft 1.21.11 with Fabric:
-* [Simple Image Renderer v1.1.0+1.21.11](https://modrinth.com/project/kp31625Q/version/J3laIGuM)
-* [3D Skin Layers v1.10.2](https://modrinth.com/project/zV5r3pPn/version/JS9deRtw)
-* [No Idle Animation v1.0.0](https://modrinth.com/project/ooznHpAN/version/v8vvKm1T)
+* [Simple Image Renderer][2]
+* [3D Skin Layers][3]
+* [No Idle Animation][4]
 
 Configure 3D Skin Layers with the following values:
 ```
@@ -37,3 +37,9 @@ Steps taken to create the render:
 	Walking Speed: <Unchanged> -1
 	```
 4. Click "Render Image".
+
+[1]: ./skin.png (My Minecraft skin)
+
+[2]: https://modrinth.com/project/kp31625Q/version/J3laIGuM (Simple Image Renderer v1.1.0+1.21.11)
+[3]: https://modrinth.com/project/zV5r3pPn/version/JS9deRtw (3D Skin Layers v1.10.2)
+[4]: https://modrinth.com/project/ooznHpAN/version/v8vvKm1T (No Idle Animation v1.0.0)

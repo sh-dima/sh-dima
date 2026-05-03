@@ -1,6 +1,6 @@
 Welcome to my GitHub profile!
 
-Most of my personal projects are over on [GitLab][gitlab-projects]. However, I will still respond to any issues/pull requests on here. I also use GitHub to collaborate and contribute to other people's projects.
+Most of my personal projects are over on [GitLab][1]. However, I will still respond to any issues/pull requests on here. I also use GitHub to collaborate and contribute to other people's projects.
 
 Links
 -----
@@ -12,4 +12,4 @@ Links
 	<a href="https://modrinth.com/user/QQLG6fUh"><img src="../refs/heads/main/assets/images/logos/modrinth.svg" width="48" height="48" /></a>
 </div>
 
-[gitlab-projects]: https://gitlab.com/users/shdima/projects (View my projects on GitLab)
+[1]: https://gitlab.com/users/shdima/projects (View my projects on GitLab)
