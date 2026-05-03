@@ -3,7 +3,7 @@ Minecraft Profile
 
 These are the instructions to generate my Minecraft profile picture.
 
-Make sure you are using the [correct skin](./Skin.png) and the migrator cape.
+Make sure you are using the [correct skin](./skin.png) and the migrator cape.
 
 Install the following mods on Minecraft 1.21.11 with Fabric:
 * [Simple Image Renderer v1.1.0+1.21.11](https://modrinth.com/project/kp31625Q/version/J3laIGuM)
