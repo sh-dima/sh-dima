@@ -9,6 +9,7 @@ Links
 	<a href="https://discord-profiles.gitlab.io/sh.dima/"><img src="../refs/heads/main/assets/images/logos/discord.svg" width="48" height="48" /></a>
 	<a href="mailto:dima.o.sh@proton.me"><img src="../refs/heads/main/assets/images/logos/mail.svg" width="48" height="48" /></a>
 	<a href="https://gitlab.com/shdima"><img src="../refs/heads/main/assets/images/logos/gitlab.svg" width="48" height="48" /></a>
+	<a href="https://marketplace.visualstudio.com/publishers/sdima"><img src="../refs/heads/main/assets/images/logos/vscode.svg" width="48" height="48" /></a>
 	<a href="https://modrinth.com/user/QQLG6fUh"><img src="../refs/heads/main/assets/images/logos/modrinth.svg" width="48" height="48" /></a>
 </div>
 
