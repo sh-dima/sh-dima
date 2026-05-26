@@ -2,8 +2,7 @@ Welcome to my GitHub profile!
 
 Most of my personal projects are over on [GitLab][1]. However, I will still respond to any issues/pull requests on here. I also use GitHub to collaborate and contribute to other people's projects.
 
-Links
------
+---
 
 <div align="center">
 	<a href="https://discord-profiles.gitlab.io/sh.dima/"><img src="../refs/heads/main/assets/images/logos/discord.svg" width="48" height="48" /></a>
